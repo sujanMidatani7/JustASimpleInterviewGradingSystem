@@ -19,6 +19,8 @@ The Interview System is designed to streamline the interview process by automati
 6. **CSV Record Storage:** The evaluations for each question, including the primary questions and follow-up questions, are stored in a list of CSV records for future reference and analysis.
 
 7. **Final Performance Evaluation:** The final performance of the interviewee is calculated based on multiple factors, including the summary of their resume, the job role they applied for, their experience, and their performance in the interview. All these factors are considered in the evaluation process.
+## USE Case Diagram
+![image](https://github.com/VVKMulukutla/JustASimpleInterviewGradingSystem/assets/105052933/be722ec6-65b7-4710-b5a7-3b03772fb868)
 
 ## Getting Started
 
