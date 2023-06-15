@@ -15,12 +15,8 @@ def create_csv_file(question, answer, rubrics_list, plagiarism_score):
     # Open the CSV file in write mode and write the data
     with open(filename, 'w') as csvfile:
         csvwriter = csv.writer(csvfile)
-        
-        # Write the field names as the header row
+       
         csvwriter.writerow(fields)
-        
-        # Write the data rows
         csvwriter.writerows(rows)
     
-    # Return the filename of the created CSV file
     return filename
