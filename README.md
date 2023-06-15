@@ -46,7 +46,7 @@ Contributions to the Interview System are welcome! If you find any issues or hav
 
 ## License
 
-The Interview System is open source and is licensed under the [GNU License](https://opensource.org/licenses/GNU_v2). Feel free to use, modify, and distribute the system in accordance with the license terms.
+The Interview System is open source and is licensed under the [GNU License](https://fsf.org/). Feel free to use, modify, and distribute the system in accordance with the license terms.
 
 ## Acknowledgements
 
