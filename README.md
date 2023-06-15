@@ -53,6 +53,19 @@ Contributions to the Interview System are welcome! If you find any issues or hav
 
 The Interview System is open source and is licensed under the [GNU License](https://fsf.org/). Feel free to use, modify, and distribute the system in accordance with the license terms.
 
+## Our Huggingface apps deployed for each part
+Resume Deatails Extraction --> https://sujanmidatani-resume-details-extractor.hf.space/
+
+Resume Details to Questions Generation --> https://sujanmidatani-resume-details-to-questions.hf.space/
+
+Text to Speech ---> https://sujanmidatani-texttospeech.hf.space/
+
+Speech to Text --> https://sujanmidatani-speechtotext.hf.space/
+
+Question Evaluation --> https://sujanmidatani-questioneval.hf.space/
+
+csv Extraction --> https://sujanmidatani-csv-extract.hf.space/
+
 ## Acknowledgements
 
 The Interview System was developed with the help of various open-source libraries and
