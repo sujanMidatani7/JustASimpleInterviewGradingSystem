@@ -28,7 +28,7 @@ def question_generation(question, ans, context):
     # Create an LLMChain instance with the LLM and prompt template
     chain = LLMChain(llm=llm, prompt=PROMPT)
     
-    # Apply the chain (not sure what this does, as it seems to be a missing function call)
+    # Apply the chain 
     chain.apply
     
     # Predict and parse the follow-up questions using the chain
